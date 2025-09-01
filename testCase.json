@@ -1,6 +1,4 @@
 {
-  "Name": "Subh",
-  "Age": "26",
-  "Email": "subh@xyz.war",
-  "EventName": "Billiards"
+  "httpMethod": "POST",
+  "body": "{\"Name\":\"Manoranjan\",\"Age\":\"25\",\"Email\":\"manoranjansethi97@gmail.com\",\"EventName\":\"AWS Bootcamp\"}"
 }
